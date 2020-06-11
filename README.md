@@ -1,5 +1,4 @@
 # Analog-Clock
-Analog Clock using C language Graphics
 
 The code Displays an Analog Clock showing current time of your computer.
 
